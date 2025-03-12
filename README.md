@@ -15,11 +15,14 @@ TBA
 :penguin: -> Linux Application
 
 :clipboard: -> Customizable Python code for user specific requirements
-## Citation
-TBA
 
 ## Future Plans
 TBA
+
+## Citation
+TBA
+
+
 
 
 
