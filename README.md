@@ -14,7 +14,7 @@ TBA
 
 :penguin: -> Linux Application
 
-:clipboard: -> Customizable Python for user specific requirements
+:clipboard: -> Customizable Python code for user specific requirements
 ## Citation
 TBA
 
