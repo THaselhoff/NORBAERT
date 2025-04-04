@@ -10,11 +10,7 @@ TBA
 ## Program & Code
 :hash: -> Windows Application
 
-:apple: -> macOS Application
-
-:penguin: -> Linux Application
-
-:clipboard: -> Customizable Python code for user specific requirements
+:clipboard: -> Python code
 
 ## Future Plans
 TBA
