@@ -10,7 +10,7 @@ TBA
 ## Program & Code
 :hash: -> Windows Application
 
-:clipboard: -> Python code
+:clipboard: -> [**Python code**](https://github.com/THaselhoff/NORBAERT/blob/main/NORBAERT_0.1.0.py)
 
 ## Future Plans
 TBA
