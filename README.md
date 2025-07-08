@@ -1,5 +1,5 @@
 #
-<img src="https://github.com/user-attachments/assets/95b72194-0c75-45d3-90cd-791e8e8c5f50" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/95b72194-0c75-45d3-90cd-791e8e8c5f50" height=100%>
 
 ## NORBAERT <br/> (Networks Of Recordings Based on the urban Acoustic EnviRonmenT)
 NORBAERT is an open source software to facilitate the research on complex networks from the acoustic environment. For single and between multiple WAVE files, it calculates frequency correlation matrices, creates complex networks based on them, and provides respective network measures.
@@ -13,10 +13,10 @@ NORBAERT is an open source software to facilitate the research on complex networ
 :snake: -> [**Python code**](https://github.com/THaselhoff/NORBAERT/blob/main/NORBAERT_0.1.0.py)
 
 ## Future Plans
-:black_square_button: Application for Linux <br/> 
-:black_square_button: Application for Mac <br/> 
 :black_square_button: Enable calculations for recordings with a sampling rate lower than 44.1 kHz <br/> 
 :black_square_button: Add additional networks measures <br/> 
+:black_square_button: Application for Linux <br/> 
+:black_square_button: Application for Mac <br/> 
 
  
 
